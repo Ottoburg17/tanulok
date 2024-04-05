@@ -1,3 +1,13 @@
+/*
+* File: App.js
+* Author: Németh Ottó
+* Copyright: 2024, Németh Ottó
+* Group: Szoft I/2-E
+* Date: 2024-04-05
+* Github: https://github.com/ottoburg17/
+* Licenc: GNU GPL
+*/
+
 import { StatusBar } from 'expo-status-bar';
 import { useEffect, useState } from 'react';
 import { FlatList, StyleSheet, Text, View } from 'react-native';
